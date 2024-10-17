@@ -1,0 +1,2 @@
+SELECT City, Sname, Snum, Comm
+FROM SALESPEOPLE;
